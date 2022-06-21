@@ -4,7 +4,8 @@ Hi 👋 My name is Martin A.K.
 Self taught software engineer
 -----------------------------
 
-I am an enterprising person, who intends to continue my development as a software engineer. I think in terms of results and objectives, I am enthusiastic, and I work with decisiveness and conviction to make my job as good as it is possible and to do the responsibility that I have. I have a proactive attitude and find positive ways to stimulate and engage with people who I work with for solving problems. I started programming when I was 10 years old. I have worked in different technologies and I think that I have good knowledge of computer programming and computer science Im Vice chief executive officer at TechMDW AB
+I am an enterprising person, who intends to continue my development as a software engineer. I think in terms of results and objectives, I am enthusiastic, and I work with decisiveness and conviction to make my job as good as it is possible and to do the responsibility that I have. I have a proactive attitude and find positive ways to stimulate and engage with people who I work with for solving problems. I started programming when I was 10 years old. I have worked in different technologies and I have good knowledge of computer programming and computer science.
+Im Vice chief executive officer at TechMDW AB.
 
 * 🌍  I'm based in Stockholm Sweden
 * ✉️  You can contact me at [martin@techmdw.com](mailto:martin@techmdw.com)
